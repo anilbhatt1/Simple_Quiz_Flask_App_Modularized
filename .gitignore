@@ -1,0 +1,9 @@
+venv
+/venv
+/.idea
+/.pytest_cache
+/.ipynb_checkpoints
+/*/.ipynb_checkpoints
+/*/.idea
+/*/.pytest_cache
+/*/__pycache__
